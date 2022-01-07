@@ -1,0 +1,9 @@
+.blackout {
+    background-color: black;
+    color: white;
+}
+
+.whiteout {
+    background-color: #EFEFEF;
+    color: black
+}
